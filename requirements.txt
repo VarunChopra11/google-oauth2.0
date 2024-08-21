@@ -1,0 +1,7 @@
+fastapi[all]
+google-auth
+google-auth-oauthlib
+python-dotenv
+uvicorn
+requests
+starlette
